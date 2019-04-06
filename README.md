@@ -1,11 +1,11 @@
 # RestAPI
-Basic CRUD operation using REST API
+Basic CRUD operation using REST API.
 Tools and Technologies used are :
-  Eclipse IDE
-  Java
-  MySQL
-  XAMPP server
-  Maven
-  Spring Boot
+  Eclipse IDE, 
+  Java, 
+  MySQL, 
+  XAMPP server, 
+  Maven, 
+  Spring Boot and  
   Postman
 
